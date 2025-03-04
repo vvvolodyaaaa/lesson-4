@@ -19,4 +19,5 @@ num_1 = tuple(num)
 dct_2[num_1] = {4, '5'}
 dct_2['after_set'] = 'after_set'
 dct_2[('hello', )] = ('hello', )
+print("test")
 print(dct_2)
